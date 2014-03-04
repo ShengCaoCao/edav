@@ -28,19 +28,19 @@ Primarily R and it's graphic packages (ex lattice, ggplot2), will incorporate Py
 
 ####Data 
 The aformentioned dataset that contains some basic information about policyholders, such as:
-* The Face Amount he/she purchases
-* When and where he/she purchased the policy
-* Type of policy he/she purchased
-* How much/how often is the premium?
-* Is the policyholder alive? IF not, what's the cause of death?
+* The Face Amount he/she purchases.
+* When and where he/she purchased the policy.
+* Type of policy he/she purchased.
+* How much/how often is the premium?.
+* Is the policyholder alive? IF not, what's the cause of death?.
 
 
 #### First Sprint
 For the three week period between 2/17 and 3/10, I would like to: 
-* Talk to the data source and collect data 
+* Talk to the data source and collect data.
 * Check for missing data, will need to work with the data source to find alternate database that might contain the same information. Once the alternative data sources are identified, will need to wrangle the data into format that's consistent with the original dataset. 
-* Examine the relationships between the variables, and create some preliminary graphs
-* Study some indsutry reports about how this type of data are usually analyzed
+* Examine the relationships between the variables, and create some preliminary graphs.
+* Study some indsutry reports about how this type of data are usually analyzed.
 
 
 </section>
