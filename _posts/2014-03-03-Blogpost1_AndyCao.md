@@ -36,6 +36,7 @@ Nathan Yau pointed out in his book that Google Spreadsheet has the motion chart 
 
 The X axis is stock price, the Y axis is market cap. The companies are represented by circles in the middle, with various size depend on market cap. The time line is at the bottom of the graph, so the reader can click on the play button to see the progression from 2000 to 2014, or can move the scroll to any specific year. I also arbitrarily separate the 9 companies into two groups: Hot Cakes vs Old Guards. Blue represents the more popular stocks now: Apple, Google, Amazon, LinkedIn and Facebook; and green represents more of the industry stewarts: IBM, Microsoft, Intel and Cisco.
 
+
 In my opinion, the resulting graph is a lot cleaner compared to the line graph in the BusinessWeek article. But one major pitfall of using the Google Chart Tools is that the $150 billion threshold that the article emphasis is not very appearance in the new graph. So there is definitely trade off. I might consider recreating the graph using R or Python for Blog post #2, as well as bringing in the other non-tech companies and draw a line over market cap of $150 billion.
 
 
