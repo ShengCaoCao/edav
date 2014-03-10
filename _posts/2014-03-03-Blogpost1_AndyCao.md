@@ -17,7 +17,11 @@ I didn’t like the way that BusinessWeek grouped all the companies together in 
 * Each company’s market cap fluctuated greatly over the years, with all the tech companies highlighted black, it’s hard to observe clearly the path of each of these companies.
 * The black lines overlay on top of all the grey lines that represent the non tech companies, which makes the graph even more clutter and hard to read. 
 
+<<<<<<< HEAD
 ![Original Image](http://images.businessweek.com/slideshows/2014-01-29/facebook-growing-up#slide9 "Original Image")
+=======
+[![](http://daylifeimages.newscred.com/imageserve/eee3899422df0397c7578b392bb1d155/630x418.jpg)](http://images.businessweek.com/slideshows/2014-01-29/facebook-growing-up#slide9)
+>>>>>>> upstream/gh-pages
 
 Although the web version of the table solved some of the problem with d3, I believe there is a better representation out there. 
 
@@ -31,11 +35,19 @@ Because I’m only collecting yearly data for 9 companies from 2000 to 2014, I d
 
 Nathan Yau pointed out in his book that Google Spreadsheet has the motion chart builded in, which saved me A LOT of time. Gapminder also has a [quick guide](http://www.gapminder.org/upload-data/motion-chart/) to generating motion chart in Google Docs . I followed the instruction and came up with the graph below:
 
+<<<<<<< HEAD
 ![motion chart](https://docs.google.com/spreadsheet/pub?key=0Avua6Uc6MQkTdFVEQVVCellQY2xoaFRUM3lDQVg3ZHc&output=html, "motion chart")
+=======
+[motion chart](https://docs.google.com/spreadsheet/pub?key=0Avua6Uc6MQkTdFVEQVVCellQY2xoaFRUM3lDQVg3ZHc&output=html) (won't embed)
+>>>>>>> upstream/gh-pages
 
 
 The X axis is stock price, the Y axis is market cap. The companies are represented by circles in the middle, with various size depend on market cap. The time line is at the bottom of the graph, so the reader can click on the play button to see the progression from 2000 to 2014, or can move the scroll to any specific year. I also arbitrarily separate the 9 companies into two groups: Hot Cakes vs Old Guards. Blue represents the more popular stocks now: Apple, Google, Amazon, LinkedIn and Facebook; and green represents more of the industry stewarts: IBM, Microsoft, Intel and Cisco.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> upstream/gh-pages
 In my opinion, the resulting graph is a lot cleaner compared to the line graph in the BusinessWeek article. But one major pitfall of using the Google Chart Tools is that the $150 billion threshold that the article emphasis is not very appearance in the new graph. So there is definitely trade off. I might consider recreating the graph using R or Python for Blog post #2, as well as bringing in the other non-tech companies and draw a line over market cap of $150 billion.
 
 
