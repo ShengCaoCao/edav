@@ -130,6 +130,7 @@
   during: |
     - Lightning talks
     - Refactor old exploratory and analysis code to R-package pattern; bugfix using testthat.
+    - after: [Data science workflow](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
 
 - date: 2014-03-12
   topic: Getting there from here
@@ -140,15 +141,20 @@
     - [Paul Murrell's page](https://www.stat.auckland.ac.nz/~paul/)
     - Rec: [Dynamic Visualizations with D3 and AngularJS](http://www.youtube.com/watch?v=BvAeabvZ61o)
 
+- date: 2014-03-18
+  topic: (spring break)
+  during: | 
+    - [NYhackR meetup](http://www.meetup.com/nyhackr/events/169828902/)
+
 - date: 2014-03-24
   topic: Gentle introduction to D3
   before: |
     - [Murray, Interative data Visualization for the Web](http://proquest.safaribooksonline.com.ezproxy.cul.columbia.edu/book/web-design-and-development/9781449340223) (O'Reilly Safari)
   during: js, json, svg; tips and tricks
 
+
 - date: 2014-03-26
-  topic: Maps OR Rmeetup-fMRI stuff
-  during: ¿[http://www.meetup.com/nyhackr/events/169828902/]?
+  topic: maps
   before: |
     - Yau, ch. 8
     - Gelman&Hill, ch. TBD
@@ -171,7 +177,7 @@
 
 
 - date: 2014-04-09
-  due: blogpost #2
+  due: blogpost \#2
   during: |
     - [Birds of the Same Feather Tweet Together](https://files.nyu.edu/pba220/public/barbera_twitter_ideal_points.pdf)
     - [Is There Anybody Out There? The Effects of Legislators’ Communication with their Constituents](https://files.nyu.edu/pba220/public/barbera_twitter_responsiveness.pdf)
@@ -184,6 +190,7 @@
     - [Basics of Histograms](http://rforpublichealth.blogspot.com/2012/12/basics-of-histograms.html)
     - [Histogram package paper](http://cran.r-project.org/web/packages/histogram/histogram.pdf)
     - [Histogram D3 layout](https://github.com/mbostock/d3/wiki/Histogram-Layout)
+    - [Henry Deng and Hadley Wickham, Density Estimation in R](http://vita.had.co.nz/papers/density-estimation.pdf)
 
 - date: 2014-04-16
   topic: ggplot2 in some depth
@@ -208,6 +215,6 @@
   topic: project reviews
 
 - date: 2014-05-05
-  due: Blogpost #3
+  due: Blogpost \#3
   topic: project reviews
 
